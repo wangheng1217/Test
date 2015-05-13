@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXCEPTION_RESPONSE xmlns="http://www.atis.org/OBF/ASR/UOM-ASRInquiry" responsetype="LOCATION_INQUIRY">
+<header>
+<interfaceid>TWT-VZ-PROD-ASR-PO</interfaceid><messagetype>tML-ASR</messagetype>
+<receiverid>TIM</receiverid>
+<ordertype>PREORDER</ordertype>
+<asogversion>46</asogversion>
+</header>
+<HDR>
+<MESSAGE_ID>OSA46065</MESSAGE_ID>
+<CCNA>TIM</CCNA>
+<MSG_TIMESTAMP>2013-08-22T16:29:48-04:00</MSG_TIMESTAMP>
+</HDR>
+<TYPE>INVALID_DATA_VALUE</TYPE>
+<EXCEPTION_DETAILS>
+<CODE>VAL121</CODE>
+<DESCRIPTION>STATE-Invalid STATE.</DESCRIPTION>
+</EXCEPTION_DETAILS>
+<EXCEPTION_DETAILS>
+<CODE>VAL079</CODE>
+<DESCRIPTION>CITY-This field is required.</DESCRIPTION>
+</EXCEPTION_DETAILS>
+<EXCEPTION_DETAILS>
+<CODE>VAL079</CODE>
+<DESCRIPTION>STATE-This field is required.</DESCRIPTION>
+</EXCEPTION_DETAILS>
+</EXCEPTION_RESPONSE>

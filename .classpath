@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/hwan4805/.m2/repository/javax/jms/jms/1.1/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-soa-p-5.2/jboss-as/server/osa/lib/wlfullclient_64-10.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/product/11.1.0/client_1/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/TWProject/saoui2/lib/commons-logging.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

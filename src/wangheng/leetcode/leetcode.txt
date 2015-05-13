@@ -1,0 +1,37 @@
+Second round list:
+
+
+
+java API:
+
+Character.toLowerCase(c), Character.isLetter(c), Character.isDigit(c)
+
+Arrays.sort()
+Arrays.asList()
+List.toArray() returns Object[]
+String[] patterns = pList.toArray(new String[pList.size()]);
+
+java.util.Stack<E> extends Vector<E> extends AbstractList<E> implements List<E>, RandomAccess, Cloneable, java.io.Serializable
+
+java.util.LinkedList<E> extends AbstractSequentialList<E> implements List<E>, Deque<E>, Cloneable, java.io.Serializable
+
+Min-heap: PriorityQueue<ListNode> heap = new PriorityQueue<ListNode>(lists.size(), comparator);
+
+Comparator
+Math.max()
+Math.min()
+Math.abs()
+
+
+problem:
+linked list ring
+
+algorithm:
+
+DP:
+RegMatchSolution
+Palindrome Partitioning II : when DP, think about line-by-line first, rather than diagonal(dui jiao xian)
+
+Greedy:
+ContainerWithMostWater
+
